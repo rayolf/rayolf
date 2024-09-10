@@ -11,7 +11,8 @@ I am always looking to improve my skills and learn new technologies!
   <img src="https://img.shields.io/badge/MQL5-blue?style=for-the-badge" alt="MQL5">
   <img src="https://img.shields.io/badge/PineScript-yellowgreen?style=for-the-badge" alt="PineScript">
 </p>
-<br><br>
+<br>
+
 ### 📬 Contact:
 <p>
   <a href="https://www.linkedin.com/in/rayolf/" target="_blank">
