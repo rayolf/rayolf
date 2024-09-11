@@ -26,3 +26,6 @@ I am always looking to improve my skills and learn new technologies!
 ## 📊 Most Used Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayolf&layout=compact&theme=default)
+
+## 🗺️ Progress at roadmap.sh:
+[![roadmap.sh](https://roadmap.sh/card/tall/66b01716c3e10bac25fc0692?variant=dark)](https://roadmap.sh)
