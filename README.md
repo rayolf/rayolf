@@ -18,7 +18,7 @@ I am always looking to improve my skills and learn new technologies!
 <p>
   <img src="https://img.shields.io/badge/MQL4-orange?style=for-the-badge" alt="MQL4">
   <img src="https://img.shields.io/badge/MQL5-blue?style=for-the-badge" alt="MQL5">
-  <img src="https://img.shields.io/badge/PineScript-yellowgreen?style=for-the-badge" alt="PineScript">
+  <img src="https://img.shields.io/badge/PineScript-darkgreen?style=for-the-badge" alt="PineScript">
 </p>
 
 ### 📬 Contact:
@@ -29,6 +29,7 @@ I am always looking to improve my skills and learn new technologies!
   <a href="https://www.rayolcode.com" target="_blank">
     <img src="https://img.shields.io/badge/My%20Website-%23000000.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="My Website">
   </a>
+  <br>
   <a href="https://www.mql5.com" target="_blank">
     <img src="https://img.shields.io/badge/MQL5 Profile-darkgreen?style=for-the-badge&logo=google-chrome&logoColor=white" alt="MQL5.com">
 </a>
@@ -46,4 +47,4 @@ I am always looking to improve my skills and learn new technologies!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayolf&layout=compact&theme=default)
 
 ## 🗺️ Progress at roadmap.sh:
-[![roadmap.sh](https://roadmap.sh/card/tall/66b01716c3e10bac25fc0692?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/66b01716c3e10bac25fc0692?variant=light)](https://roadmap.sh)
