@@ -6,9 +6,8 @@ I am always looking to improve my skills and learn new technologies!
 
 ### 🎓 Certificates:
 - [UDEMY - MQL4 Programming for Traders: Build Robust Trading Robots!](https://drive.google.com/file/d/1CWdHWqGW0vczLai15Ggt9yUO0jd2B7Wa/view)<p>
-![MQL4 CERTIFICATE](https://img.shields.io/badge/MQL4-CERTIFICATE-blue)
 - [UDEMY - Learn MQL4 from scratch and build your own Forex Robots!](https://drive.google.com/file/d/19w3zKOqMOVVX6RKAOC8bNV8KX3C8LuvF/view)<p>
-![MQL4 CERTIFICATE](https://img.shields.io/badge/MQL4-CERTIFICATE-blue)
+![MQL4 CERTIFICATE](https://img.shields.io/badge/MQL4-CERTIFICATES-blue)
 - [DIO - Binance - Blockchain Developer with Solidity](https://drive.google.com/file/d/1keOt6SyAvGaU3JdNfBjrr2mXqIPxgz2h/view)<p>
 ![SOLIDITY CERTIFICATE](https://img.shields.io/badge/SOLIDITY-CERTIFICATE-gold)
 
