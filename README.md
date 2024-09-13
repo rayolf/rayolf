@@ -4,6 +4,9 @@
 I'm a programmer specialized in MQL4, MQL5 and PineScript. I have extensive experience on creating Expert Advisors and Indicators for Metatrader and also converting strategies and indicators from TradingView to Metatrader.
 I am always looking to improve my skills and learn new technologies!
 
+### 💻 Certificates:
+- [UDEMY - MQL4 Programming for Traders: Build Robust Trading Robots!](https://drive.google.com/file/d/1CWdHWqGW0vczLai15Ggt9yUO0jd2B7Wa/view)
+
 ### 💻 Languages and Tools:
 
 <p>
