@@ -20,6 +20,7 @@ I am always looking to improve my skills and learn new technologies!
   <img src="https://img.shields.io/badge/MQL4-orange?style=for-the-badge" alt="MQL4">
   <img src="https://img.shields.io/badge/MQL5-blue?style=for-the-badge" alt="MQL5">
   <img src="https://img.shields.io/badge/PineScript-darkgreen?style=for-the-badge" alt="PineScript">
+  <img src="https://img.shields.io/badge/PYTHON-red?style=for-the-badge" alt="Python">
 </p>
 
 ### 📬 Contact:
