@@ -9,6 +9,7 @@ I am always looking to improve my skills and learn new technologies!
 - [UDEMY - Learn MQL4 from scratch and build your own Forex Robots!](https://drive.google.com/file/d/19w3zKOqMOVVX6RKAOC8bNV8KX3C8LuvF/view)<p>
 ![MQL4 CERTIFICATE](https://img.shields.io/badge/MQL4-CERTIFICATES-blue)
 - [QUANTRA - Python for Trading: Basic!](https://drive.google.com/file/d/1X8zX4Hoetgvms6yFR0nclDb0xUjLiX1u/view?usp=sharing)<p>
+- [QUANTRA - Forex Trading using Python: Basics!](https://drive.google.com/file/d/1w-1r1GuIKCLSJFd3EjAAG1uqmbv0Jt7_/view?usp=sharing)<p>
 ![PYTHON CERTIFICATE](https://img.shields.io/badge/PYTHON-CERTIFICATES-silver)
 - [DIO - Binance - Blockchain Developer with Solidity](https://drive.google.com/file/d/1keOt6SyAvGaU3JdNfBjrr2mXqIPxgz2h/view)<p>
 ![SOLIDITY CERTIFICATE](https://img.shields.io/badge/SOLIDITY-CERTIFICATE-gold)
