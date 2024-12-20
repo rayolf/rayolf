@@ -14,7 +14,7 @@ I am always looking to improve my skills and learn new technologies!
 - [QUANTRA - Forex Trading using Python: Basics!](https://drive.google.com/file/d/1w-1r1GuIKCLSJFd3EjAAG1uqmbv0Jt7_/view?usp=sharing)<p>
 ![PYTHON CERTIFICATE](https://img.shields.io/badge/PYTHON-CERTIFICATES-silver)
 - [DIO - Binance - Blockchain Developer with Solidity](https://drive.google.com/file/d/1keOt6SyAvGaU3JdNfBjrr2mXqIPxgz2h/view)<p>
-![SOLIDITY CERTIFICATE](https://img.shields.io/badge/SOLIDITY-CERTIFICATE-gold)
+![SOLIDITY CERTIFICATE](https://img.shields.io/badge/SOLIDITY-CERTIFICATES-gold)
 
 
 ### 💻 Languages and Tools:
