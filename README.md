@@ -3,6 +3,7 @@
 ### About Me:
 I'm a programmer specialized in MQL4, MQL5 and PineScript. I have extensive experience on creating Expert Advisors and Indicators for Metatrader and also converting strategies and indicators from TradingView to Metatrader.
 I am always looking to improve my skills and learn new technologies!
+<hr/>
 
 ### 💻 Languages and Tools:
 
@@ -38,7 +39,9 @@ I am always looking to improve my skills and learn new technologies!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayolf&layout=compact&theme=default)
 
-### 🎓 Certificates:
+<br>
+
+## 🎓 Certificates:
 - [UDEMY - MQL5 Beginner: Algorithmic trading with MQL5 language!](https://drive.google.com/file/d/1ckEgMgmVYL89ceqilzxIC6ufs1R1QdiS/view?usp=sharing)<p>
 ![MQL5 CERTIFICATE](https://img.shields.io/badge/MQL5-CERTIFICATES-brown)
 - [UDEMY - MQL4 Programming for Traders: Build Robust Trading Robots!](https://drive.google.com/file/d/1CWdHWqGW0vczLai15Ggt9yUO0jd2B7Wa/view)<p>
