@@ -47,6 +47,8 @@ I am always looking to improve my skills and learn new technologies!
 - [UDEMY - MQL4 Programming for Traders: Build Robust Trading Robots!](https://drive.google.com/file/d/1CWdHWqGW0vczLai15Ggt9yUO0jd2B7Wa/view)<p>
 - [UDEMY - Learn MQL4 from scratch and build your own Forex Robots!](https://drive.google.com/file/d/19w3zKOqMOVVX6RKAOC8bNV8KX3C8LuvF/view)<p>
 ![MQL4 CERTIFICATE](https://img.shields.io/badge/MQL4-CERTIFICATES-blue)
+- [UDEMY - Learn Tradingview Pinescript Programming From Scratch!](https://drive.google.com/file/d/1KjDyACeQeUGjcD0g5KZxMMlHo_wlzbWy/view?usp=sharing)<p>
+![PINESCRIPT CERTIFICATE](https://img.shields.io/badge/PINESCRIPT-CERTIFICATES-green)
 - [QUANTRA - Python for Trading: Basic!](https://drive.google.com/file/d/1X8zX4Hoetgvms6yFR0nclDb0xUjLiX1u/view?usp=sharing)<p>
 - [QUANTRA - Forex Trading using Python: Basics!](https://drive.google.com/file/d/1w-1r1GuIKCLSJFd3EjAAG1uqmbv0Jt7_/view?usp=sharing)<p>
 ![PYTHON CERTIFICATE](https://img.shields.io/badge/PYTHON-CERTIFICATES-silver)
